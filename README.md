@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dheerajkrbhaskar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 📫 instaID @bhaskars.view
 
 <!---
