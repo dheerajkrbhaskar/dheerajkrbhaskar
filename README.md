@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - https://leetcode.com/u/dheerajkrbhaskar/
 - https://www.hackerrank.com/sameerbhaskar15
+- https://www.geeksforgeeks.org/user/dheerajkrbhaskar/
 - https://www.codechef.com/users/dheerajbhaskar
 <!---
 dheerajkrbhaskar/dheerajkrbhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
