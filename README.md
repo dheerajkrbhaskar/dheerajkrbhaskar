@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dheerajkrbhaskar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Next
-- https://www.dheerajbhaskar.dev
+- https://dheerajbhaskar.dev
 - https://leetcode.com/u/dheerajkrbhaskar/
 - https://www.geeksforgeeks.org/user/dheerajkrbhaskar/
 - https://www.codechef.com/users/dheerajbhaskar
