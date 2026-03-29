@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dheerajkrbhaskar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next
+- https://www.dheerajbhaskar.dev
 - https://leetcode.com/u/dheerajkrbhaskar/
-- https://www.hackerrank.com/sameerbhaskar15
 - https://www.geeksforgeeks.org/user/dheerajkrbhaskar/
 - https://www.codechef.com/users/dheerajbhaskar
 <!---
